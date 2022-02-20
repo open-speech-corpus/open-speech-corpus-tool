@@ -41,7 +41,8 @@ Open Speech Corpus is a voice sample collection and validation tool that helps r
 
 The tool is part of project submitted at Department of Computer Science and Engineering, Baba Ghulam Shah Badshah University, J&K
 
-- Rukhsana Thaker
+- Rukhsana Thakar
 - Syed Vikas Shabir
 - Safoora Mir
+- Umar Ayoub
 - Owais Bin Amin
