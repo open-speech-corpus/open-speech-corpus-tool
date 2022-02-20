@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/vikasbukhari/Open-Speech-Corpus/main/promotional/openSpeechLogo.png?token=GHSAT0AAAAAABJAAEDHMS2GOSZ7DF2ZI7F2YQRZSDQ)
+![Logo](https://raw.githubusercontent.com/open-speech-corpus/tool/main/extras/image-banner.png?token=GHSAT0AAAAAABJAAEDHXBLXAIBPURLQZQNMYQSENEQ)
 
 
 # Open Speech Corpus (BETA)
