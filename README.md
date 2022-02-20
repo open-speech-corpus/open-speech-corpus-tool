@@ -36,3 +36,12 @@ Open Speech Corpus is a voice sample collection and validation tool that helps r
  - Once your website is deployed online, register a new user at `yoursite/Register`.
  - Go to the Firebase Firestore and in `userPermissions` update permission to `ADMIN` 
  - Now goto `yoursite/Login` and login to your admin panel.
+
+## Credits
+
+The tool is part of project submitted at Department of Computer Science and Engineering, Baba Ghulam Shah Badshah University, J&K
+
+- Rukhsana Thaker
+- Syed Vikas Shabir
+- Safoora Mir
+- Owais Bin Amin
