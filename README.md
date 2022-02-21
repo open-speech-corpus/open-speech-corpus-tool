@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/open-speech-corpus/tool/main/extras/image-banner.png?token=GHSAT0AAAAAABJAAEDHXBLXAIBPURLQZQNMYQSENEQ)
 
 
-# Open Speech Corpus (BETA)
+# Open Speech Corpus
 
 Open Speech Corpus is a voice sample collection and validation tool that helps researchers and engineers to collect and validate voice samples through crowdsourcing.
 
